@@ -148,3 +148,5 @@ How old are you in years?
 ```
 
 Now that you have a basic understanding of methods, see if you can write one yourself. You could write an adventure word game or create your own calculator. The best way to get started is to just experiment!
+
+<div style="height:30px;"></div>

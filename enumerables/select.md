@@ -45,3 +45,5 @@ $ good_students
 ```
 
 You can imagine a program that runs simple select methods for hundreds of students in many classes in order to group students by their grades. Ruby is useful for sorting, counting, classifying and organizing data. It would take a person many hours to organize hundreds of students by grade and name, but a good program can do it almost instantly!
+
+<div style="height:30px;"></div>

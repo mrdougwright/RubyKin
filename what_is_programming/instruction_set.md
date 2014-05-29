@@ -53,3 +53,4 @@ strange \n things that we'll explain later."
 9 is such a joker. Did you notice we put the number nine as a string? This is very different than the actual number nine, but we will get to that later.
 
 Now that you know the two most fundamental pieces of data the computer uses (numbers and strings), it's time to dive a bit deeper into each of these data types.
+<div style="height:30px;"></div>

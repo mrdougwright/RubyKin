@@ -95,3 +95,5 @@ string_array.push("Bill")
 ```
 
 The shovel method is favored by Rubyists and it’s good to know how it works. More examples on arrays below.
+
+<div style="height:30px;"></div>

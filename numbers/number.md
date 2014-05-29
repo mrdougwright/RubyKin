@@ -81,3 +81,5 @@ In addition to these standard math operations, the computer has something called
   ```
 
 If exponents and modulos are too complex to understand right now, don't worry. Again, they are not a requirement for programming. It's important at this stage to simply understand that the computer can do simple math for you. Check out some examples below.
+
+<div style="height:30px;"></div>

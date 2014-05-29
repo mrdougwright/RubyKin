@@ -38,3 +38,5 @@ Want to see more cool String methods? Just call _methods_ on the String class! T
 [:try\_convert, :allocate, :new, :superclass, :freeze, :===, :==, :<=>, :<, :<=, :>, :>=, :to\_s, :included\_modules, :include?, :name, :ancestors, :instance\_methods, :public\_instance\_methods, :protected\_instance\_methods, :private\_instance\_methods, :constants, :const\_get, :const\_
 
 and many more...
+
+<div style="height:30px;"></div>

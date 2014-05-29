@@ -24,3 +24,5 @@ animals
 ```
 
 At this point you understand two fundamental collections in programming languages: arrays and hashes. After diving into the Enumerable module we revealed four of the most common methods used on these collections; each, each\_with\_index, select and map. Now it’s time to test your knowledge with a few more examples.
+
+<div style="height:30px;"></div>

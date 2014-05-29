@@ -61,3 +61,5 @@ these items from our hash?
 
 Hint: We can set the value of a key item to itself, minus
 how many items removed.
+
+<div style="height:30px;"></div>

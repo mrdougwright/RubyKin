@@ -90,3 +90,5 @@ __*Everything is an object*__
 That means that every thing you have learned so far was a type of object. Numbers, strings, variables, if statements, booleans and even code blocks (such as X < 10)...these are all objects!
 
 Next chapter we'll learn about Loops. (Yep, loops are objects too). Don’t worry, these aren’t the roller coaster type of loops.
+
+<div style="height:30px;"></div>

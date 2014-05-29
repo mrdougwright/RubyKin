@@ -63,3 +63,5 @@ true => puts 'shoes'
 ```
 
 The method starts out with an item and its index from the array. It then performs the block of code we specified between the `do` and `end` wrappers. In this example it will only put the name of the item if the index is an even number. Otherwise, the if statement will return false and Ruby will not put anything to the screen for that particular block of code.
+
+<div style="height:30px;"></div>

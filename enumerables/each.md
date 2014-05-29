@@ -45,3 +45,5 @@ stuffed animal => 8
 ```
 
 When using the each method on a hash, Ruby knows that each element in the array has a key and a value. We could have used anything in our `|pipes|` to name our key and value pairs ( such as `|x, y|` ), but it’s easier to read when we identify our key and value by their names. We then call the puts method again on each element, use our friend interpolation `#{ }` to place our variable values in our string, and finally put the string of the toy, and number of toys, to the screen.
+
+<div style="height:30px;"></div>

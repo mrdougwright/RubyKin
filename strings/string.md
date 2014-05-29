@@ -68,3 +68,5 @@ Another line.
 And another.
 ```
 In this way, Ruby can store sentences or even whole files inside just one string. Now that you have a better understanding of strings, check out some examples below.
+
+<div style="height:30px;"></div>

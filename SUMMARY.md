@@ -26,6 +26,6 @@
    * [Practice](enumerables/practice.md)
 * [Files](files/file.md)
    * [The End](files/the_end.md)
-   * [Contact](files/contact.md)
 * [Answers to Practice Problems](answers_to_practice_problems/answers.md)
+* [Appendix](appendix/contact.md)
 

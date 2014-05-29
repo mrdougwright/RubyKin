@@ -50,3 +50,5 @@ toy_chest
 ```
 
 There are several other ways to add, remove and manipulate data in our hash collection. But before we understand these methods, we need to learn about methods in general. Check out some examples of using a Hash below, and then, onward to the next chapter!
+
+<div style="height:30px;"></div>

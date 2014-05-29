@@ -66,3 +66,5 @@ file_array = File.open("our_file.txt").readlines
 ```
 
 Wow! Now you know how to open, write, and read files! And don’t forget to close your files in your programs with the close method. It can be a bad thing to leave them open, because the computer won’t actually write and save the file until just before its closed. Also, open files can lead to overloading your memory usage.
+
+<div style="height:30px;"></div>

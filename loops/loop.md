@@ -92,3 +92,5 @@ The current value is 5
 Hopefully you are beginning to see the power of loops in Ruby. There are a few other loops, but _while_ and _for_ are the standard ones to start with. When we combine loops with collections, our programs become even more valuable!
 
 Imagine a comic book collection, or a marble collection, or a toy collection. They are full of individual comics or marbles or toys. Imagine how much easier it would be to count, sort and organize our collections if we had the super fast computers helping us while we do other things! Next, we’ll show you how to get Ruby's help in handling collections. For now we'll finish the chapter with some examples.
+
+<div style="height:30px;"></div>
